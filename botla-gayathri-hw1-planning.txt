@@ -1,0 +1,21 @@
+
+Assignment Number: 1 
+Assignment Title: Reflections, ideas, and planning 
+Assignment due: Wednesday, 2022-09-22, 0330pm (just in time for a possible discussion in class) Submit file name: 1_ReflectionsIdeasAndPlannin 
+1.Based on the reports of your fellow classmates during our last class (2022-09-08), please briefly summarize any new ideas for apps to solve people’s problems that you have come up with as a result of listening to other students. 
+Ans) After hearing my classmates, I got couple of ideas that many people encounter 
+1. House construction cost estimation by taking inputs such as type of construction and type of design, square feet, contractor details (best, medium and cheap rated) and building material from the users. 
+2. The other one is Logistics business in India is very much fragmented and there isn't any such app that I know of which provides freight management services similar to how uber works. 
+2.Several people mentioned the “conflict” between the desire to have a free app, and developers’ desire (and need) to get compensated. Can you suggest any ways by which developers can reap their creativities and efforts’ rewards without alienating their “customer base” by inundating with ads and/or charging them. 
+Ans ) Developers make gaming apps and they make them available for free to install in app store. They get compensated by adding advertisements, In-App purchase, sponsorship, physical purchases.  
+1. Developers can add non-intrusive advertisements in their apps which don't restrict the app functionality. 
+2. Developers can follow a freemium model where they can provide basic functionality of the app for free, but charge for some of the features. 
+3. Developers can take direct donations from the users if they really liked the app. 
+4. Developers can also take sponsorship for various big corporations. 
+5. Developers can sell goods, merchandise outside the app if they really become popular. 
+3.Please point to any app/software/website that offers in your opinion an excellent UI/UX. Briefly explain in what ways you find its UI/UX to be so good. 
+Ans) 
+1. According to my point of view I suggest subway Surf gaming app which is having excellent UI/UX, because the UI/UX themes will be changed according to the seasons and the gaming experience is also good. 
+2.Lose Belly fat exercise app is one of the apps which is having good UI/UX design by showing demo of exercises through animations and also through YouTube links and it will show our activity by using charts. 
+4.Have last class’s discussions and/or items #1-3 gotten you closer toward a mobile app you would like to pursue as a project for this course? Please discuss briefly. 
+From last class discussion, I got couple of ideas as I mentioned above, but I'm not sure to pursue which one as a project right now. I'm still brainstorming for better ideas to implement. 
