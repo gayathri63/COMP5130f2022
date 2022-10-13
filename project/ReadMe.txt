@@ -12,3 +12,7 @@ intolerances. Our objective is to provide a user-friendly and convenient guide b
 who are on dietary restriction for other reasons too.
 
 link to Mock UI: https://www.figma.com/file/w34bvdId747GiJr8gn3sUj/DineSafe?node-id=0%3A1
+
+Project Members:
+1. Sunayana Hubli (GitHub ID: sunayanahubli)
+2. Gayathri Botla (GitHub ID: GayuBotla)
