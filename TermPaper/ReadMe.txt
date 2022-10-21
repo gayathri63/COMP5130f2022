@@ -7,3 +7,6 @@ This include following REST services (like GET, POST,PUT,DELETE for HTTP).
 Clean URLs are tightly associated with the REST concept.
 REST attempts to describe architectures that use HTTP or similar protocols by constraining the interface to a set of well-known, 
 It mainly focus on interacting with stateless resources rather than messages or operations.
+ 
+ --External Sources--).
+ I read the blog from neil patel(https://neilpatel.com/blog/website-migration/).
